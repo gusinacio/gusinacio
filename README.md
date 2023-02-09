@@ -4,7 +4,7 @@ My name is Gustavo Inacio and I'm a computer scientist and software engineer. He
 
 To help you with the exploration, these are some points that may interest you:
 
-- 🛠️ [Computer Science](https://github.com/flametuner/data-structures): Algorithms, Data structures, Concurrent Programming, etc.
+- 🛠️ [Computer Science](./COMPUTER_SCIENCE.md): Algorithms, Data structures, Concurrent Programming, etc.
 - 🏗️ [Projects](./PROJECTS.md): Programming Languages, Databases, Authentication, Backend and Frontend, Monorepos.
 - 🔗 [Blockchain](./BLOCKCHAIN.md): Blockchain projects from Smart Contracts to Frontend and Backend.
 - 🏢 [Infrastructure and DevOps](./INFRASTRUCTURE.md): Modules, Scripts and Real world infrastructures maintained by me 
