@@ -16,6 +16,12 @@ To help you with the exploration, these are some points that may interest you:
 - Authentication: OAuth2, OIDC
 - Blockchain: Solidity with Hardhat, Truffle, Vyper, EVM specifications, Rust based Near Protocol, Chainlink, TheGraph, ethers.js, wagmi
 - Infrastructure and DevOps: Terraform, Terragrunt, Bash, Pipelines, Monorepos
+
+
+I've been learning and working with programming for 10 years, you can find my very first projects in the [battlebits organization](https://github.com/battlebits) where I used Java to create plugins for a Mincraft server.
+
+At college, a lot of it was reviewed and you can find them here.
+
 <!--
 **flametuner/flametuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
