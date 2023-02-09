@@ -1,38 +1,16 @@
 ### Hi there 👋 welcome to my Github Profile.
 
-My name is Gustavo Inacio and I'm a computer scientist and software engineer.
-
-Here you can check out my portifolio and the projects I've build in the past.
+My name is Gustavo Inacio and I'm a computer scientist and software engineer. Here you can check out my portifolio and the projects I've build in the past.
 
 To help you with the exploration, these are some points that may interest you:
 
-- Data structures: Linked Lists, Hashmap, Arrays, 
-- Algorithms Visualization: Djikstra, Quicksort, FFT <!-- It must have a README with a visuzilation, the wikipedia for it, the programming language, where it's used -->
-- Programming Languages: Javascript/Typescript, Rust, Java, Python, Kotlin, Dart, Elixir
-- Frontend frameworks: NextJS, 
-- Backend: NestJS, REST, GraphQL, Internet Protocols (HTTPS) 
-- Mobile: Flutter
-- Databases: MongoDB, Redis, SQL, Firebase, Supabase
-- Authentication: OAuth2, OIDC
-- Blockchain: Solidity with Hardhat, Truffle, Vyper, EVM specifications, Rust based Near Protocol, Chainlink, TheGraph, ethers.js, wagmi
-- Infrastructure and DevOps: Terraform, Terragrunt, Bash, Pipelines, Monorepos
+- 🛠️ [Computer Science](https://github.com/flametuner/data-structures): Algorithms, Data structures, Concurrent Programming, etc.
+- 🏗️ [Projects](./PROJECTS.md): Programming Languages, Databases, Authentication, Backend and Frontend, Monorepos.
+- 🔗 [Blockchain](./BLOCKCHAIN.md): Blockchain projects from Smart Contracts to Frontend and Backend.
+- 🏢 [Infrastructure and DevOps](./INFRASTRUCTURE.md): Modules, Scripts and Real world infrastructures maintained by me 
 
 
-I've been learning and working with programming for 10 years, you can find my very first projects in the [battlebits organization](https://github.com/battlebits) where I used Java to create plugins for a Mincraft server.
-
-At college, a lot of it was reviewed and you can find them here.
-
-<!--
-**flametuner/flametuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few more information:
+- 🌱 I’m currently learning Rust programming language and I'm loving it.
+- 📫 How to reach me: [💼Linkedin](https://www.linkedin.com/in/gusta-inacio/) or 💬Discord (GustavoInacio#6940)
+- ⚡ Fun fact: I used to play League of Legends in my free time, I like to play as an ADC
