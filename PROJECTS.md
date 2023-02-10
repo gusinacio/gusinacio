@@ -17,6 +17,7 @@ These are the projects I did with each of the programming languages
 
 #### Backend:
 - [pools-party](https://github.com/flametuner/pools-party): GraphQL API for a gamified Pools app where users receive points for answering pools. I used Apollo with Express and Prisma (SQL). I also did a NestJS version of it. 
+- [crypto4all-backend](https://github.com/flametuner/crypto4all-backend): a backend running with express and Apollo for a project where people create campaigns and each person that fulfill the criterias, the campaign gives a reward.
 
 ### 📄 Solidity
 - [hrm-contracts](https://github.com/flametuner/hrm-contracts): My first ever blockchain project where we published a paper about hrm process in public institutions using blockchain
