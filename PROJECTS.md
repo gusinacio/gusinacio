@@ -26,6 +26,7 @@ These are the projects I did with each of the programming languages
 ### ☕ Java
 I've been learning and working with programming for 10 years, you can find my very first projects in the [battlebits organization](https://github.com/battlebits) where I used Java to create plugins for a Mincraft server.
 
+- [libs-mcpvp](https://github.com/flametuner/LibsMcpvp): My very first commit on Github.
 - [airfare-reservation](https://github.com/flametuner/airfare-reservation): This was a college work showing everything learned at the first college semester.
 - [prime-number-generator](https://github.com/flametuner/prime-bignumber-generator): Generates random numbers of N bits and check for primality
 - [scanner](https://github.com/flametuner/scanner): Lexical and syntactical analysis using ANTLR
@@ -34,6 +35,7 @@ I've been learning and working with programming for 10 years, you can find my ve
 
 - [regular-language-automata](https://github.com/flametuner/regular-language-automata): Complete program that creates Deterministic Finite Automatons and test them.
 - [computational-graphics](https://github.com/flametuner/computational-graphics): Learning process of Computational Graphics, drawing modes, calculations, using Qt and Python.
+- [hyperx-keyboard-rgb](https://github.com/K4CZP3R/hyperx-keyboard-rgb): This is a fork of a project that aimed to control the colors of the keyboard, and I adapted for my model.
 
 ### 🔧 C and C++
 
