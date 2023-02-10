@@ -11,7 +11,7 @@ These are my great areas of study in Computer Science:
 <!-- It must have a README with a visuzilation, the wikipedia for it, the programming language, where it's used, time complexity -->
 ### 🔢 Sorting
 
-- [x] [Merge sort](https://github.com/flametuner/parallel-merge-sort): a parallel implementation of merge sort
+- [x] [Merge sort](https://github.com/flametuner/parallel-merge-sort): a parallel implementation of merge sort written in C with MPI
 - [ ] Quicksort
 - [ ] Bubblesort
 
