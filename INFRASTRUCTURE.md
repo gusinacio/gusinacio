@@ -28,4 +28,4 @@ I also have a few Terraform Modules on Terraform Registry:
 - [cloud-run-api](https://registry.terraform.io/modules/graphnode-technologies/cloud-run-api/gcp/latest): A easy way to create a cloud run api and keeping them warm using scheduler.
 - [deployment-api](https://registry.terraform.io/modules/graphnode-technologies/deployment-api/kubernetes/latest): Create a deployment in Kubernetes with autoscaling, service and nginx ingress ready for production.
 - [serverless-next-js](https://registry.terraform.io/modules/graphnode-technologies/serverless-nextjs/aws/latest): Use with [serverless-nextjs](https://github.com/serverless-nextjs/serverless-next.js) to create bucket, distribution and domain record in AWS and keep track of it.
-- [registry](https://registry.terraform.io/modules/graphnode-technologies/registry/aws/latest): Create an ERC repository with easy delete policy.
+- [registry](https://registry.terraform.io/modules/graphnode-technologies/registry/aws/latest): Create an ERC repository with easy cleanup policy.
