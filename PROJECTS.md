@@ -11,6 +11,9 @@
 These are the projects I did with each of the programming languages
 
 ### 🚀 JavaScript/TypeScript
+
+- [conventional-commit-ai](https://github.com/flametuner/vscode-conventional-commit-ai): vscode extension that uses OpenAI API to create meaningful commit messages.
+
 #### Frontend:
 - [tictactoe-react-eth](https://github.com/flametuner/eth-tictactoe-react): A react implementation of TicTacToe above blockchain.
 - [pools-party](https://github.com/flametuner/pools-party): NextJS frontend with Bootstrap where the user can register and login for creating questions and answering them with GraphQL client.
