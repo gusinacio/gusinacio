@@ -26,6 +26,7 @@ These are the projects I did with each of the programming languages
 - [hrm-contracts](https://github.com/flametuner/hrm-contracts): My first ever blockchain project where we published a paper about hrm process in public institutions using blockchain
 - [dagora-market](https://github.com/dagoramarket): My Graduation Thesis about a decentralized marketplace using Solidity, OpenZeppelin, Hardhat and The Graph.
 - [blockchain-matchmaking](https://github.com/flametuner/blockchain-matchmaking): We used a TicTacToe for creating a ranking system using Elo Rating, and creating matchmaking inside blockchain.
+- [taipe-experience](https://github.com/flametuner/taipe-contracts): NFT project multi-chain bridge between Ethereum and Polygon, Uniswap consumer, Chainlink VRF, PaymentSplitter and Upgradeable contracts.
 
 ### ☕ Java
 I've been learning and working with programming for 10 years, you can find my very first projects in the [battlebits organization](https://github.com/battlebits) where I used Java to create plugins for a Mincraft server.
@@ -41,6 +42,7 @@ I've been learning and working with programming for 10 years, you can find my ve
 - [computational-graphics](https://github.com/flametuner/computational-graphics): Learning process of Computational Graphics, drawing modes, calculations, using Qt and Python.
 - [hyperx-keyboard-rgb](https://github.com/K4CZP3R/hyperx-keyboard-rgb): This is a fork of a project that aimed to control the colors of the keyboard, and I adapted for my model.
 - [picasso](https://github.com/flametuner/picasso): Create NFTs from Blender files using Blend My NFT addon and Kubernetes.
+
 ### 🔧 C and C++
 
 - [epos](https://github.com/flametuner/epos-riscv): Implementation of SO structures for RiscV
