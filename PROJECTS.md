@@ -40,7 +40,7 @@ I've been learning and working with programming for 10 years, you can find my ve
 - [regular-language-automata](https://github.com/flametuner/regular-language-automata): Complete program that creates Deterministic Finite Automatons and test them.
 - [computational-graphics](https://github.com/flametuner/computational-graphics): Learning process of Computational Graphics, drawing modes, calculations, using Qt and Python.
 - [hyperx-keyboard-rgb](https://github.com/K4CZP3R/hyperx-keyboard-rgb): This is a fork of a project that aimed to control the colors of the keyboard, and I adapted for my model.
-
+- [picasso](https://github.com/flametuner/picasso): Create NFTs from Blender files using Blend My NFT addon and Kubernetes.
 ### 🔧 C and C++
 
 - [epos](https://github.com/flametuner/epos-riscv): Implementation of SO structures for RiscV
