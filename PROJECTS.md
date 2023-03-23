@@ -50,7 +50,8 @@ I've been learning and working with programming for 10 years, you can find my ve
 - [parallel-merge-sort](https://github.com/flametuner/parallel-merge-sort): a parallel implementation of merge sort written in C with MPI
 
 ### 🦀 Rust
-- Loading...
+- [ethos-rs](https://github.com/flametuner/ethos-rs): Rewrite of (Festa do Taipe)[https://www.festadotaipe.xyz/pt] backend in Rust.
+- [graph-node](https://github.com/flametuner/graph-node): Contribution for adding filtering with text search in The Graph Protocol.
 
 ### 🍃 Elixir
 - Loading...
