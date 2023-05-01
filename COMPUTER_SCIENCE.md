@@ -12,8 +12,8 @@ These are my great areas of study in Computer Science:
 ### 🔢 Sorting
 
 - [x] [Merge sort](https://github.com/flametuner/parallel-merge-sort): a parallel implementation of merge sort written in C with MPI
-- [ ] Quicksort
-- [ ] Bubblesort
+- [x] [Quicksort](https://github.com/flametuner/algorithms-rs): quicksort implementation in rust.
+- [x] [Bubblesort](https://github.com/flametuner/algorithms-rs): bubblesort implementation in rust.
 
 ### 📈 Graphs
 

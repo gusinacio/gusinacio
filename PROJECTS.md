@@ -52,6 +52,9 @@ I've been learning and working with programming for 10 years, you can find my ve
 ### 🦀 Rust
 - [ethos-rs](https://github.com/flametuner/ethos-rs): Rewrite of [Festa do Taipe](https://www.festadotaipe.xyz/pt) backend in Rust.
 - [graph-node](https://github.com/flametuner/graph-node): Contribution for adding filtering with text search in The Graph Protocol.
+- [algorithm-rs](https://github.com/flametuner/algorithms-rs): Multiple sorting algorithms like Quicksort, Bubble sort, Merge sort and parallel merge sort in Rust.
+- [client-server-rs](https://github.com/flametuner/client-server-rs): Multithreaded client and server with packet registration via TCP streams.
+- [whatsgpt-rs](https://github.com/flametuner/whatsgpt-rs): Whatsapp bot with Facebook's Webhook for receiving messages and sending responses with OpenAI's GPT models in Rust.
 
 ### 🍃 Elixir
 - Loading...
